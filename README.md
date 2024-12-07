@@ -82,6 +82,29 @@ To further refine the analysis, the income groups of countries within each regio
 The Sub-Saharan Africa region demonstrates the largest income disparity among its countries. Approximately 34% of countries are classified as lower-income, 62.4% as lower-middle income, and only 3.53% as upper-middle income.
 In contrast, the Latin America and Caribbean region is in a more favorable position in terms of income distribution. Around 78.8% of its countries are categorized as upper-middle income, while the remaining 21.2% are lower-middle income.
 
+### Identifying Countries at Risk of Excessive Foreign Debt
+
+![image](https://github.com/user-attachments/assets/73a92328-b037-4b82-a59d-dc2f0c64137c)
+
+During the analysis to determine countries at risk of taking on excessive foreign debt, a significant portion of the dataset contained NA values. These were not removed during the data cleaning process due to the structure of the dataset, which spans multiple years where each year is represented as a variable. Removing rows with missing data for a single year would have resulted in the unnecessary loss of valuable information from other years.
+
+This limitation posed challenges for the original analysis. The intended variable, rescheduled debt (representing restructured contract terms to aid a country), could not be used due to insufficient data. Consequently, an alternative approach was adopted by shifting focus to IMF credits as a proxy for assessing risk.
+
+IMF credits represent loans extended to countries in need of additional monetary assistance, often during economic crises. These credits serve as an indicator of financial distress or reliance on external support, providing insights into which countries may be at risk of overburdening themselves with foreign debt.
+
+### Reliance on the International Monetary Fund Over the Past Decade
+
+![image](https://github.com/user-attachments/assets/a5a8087f-5182-4c4a-acdf-048041d9ae84)
+
+The countries that have relied most heavily on the International Monetary Fund (IMF) for assistance over the past 10 years are China, India, and the Russian Federation. While this reliance suggests potential economic challenges, additional context provides a more nuanced understanding of each country's financial situation:
+
+China has utilized IMF resources primarily to expand its infrastructure and strengthen its economy. Despite its reliance on the IMF, China is not among the top 10 countries with the highest levels of external debt owed to public creditors and possesses substantial reserves. This indicates that China's IMF borrowing may be strategic rather than indicative of financial instability.
+
+India is one of the top three borrowers from the IMF and is also the leading country for external debt owed to public creditors. This suggests that India faces challenges in sustaining its economy solely through private and public creditors, necessitating additional support from the IMF. These funds could be directed toward fostering economic growth or mitigating the effects of financial downturns.
+
+The Russian Federation relies on IMF assistance partly due to the numerous tariffs imposed on its economy by other nations. Despite this reliance, Russia maintains relatively low levels of external debt from public creditors, reflecting its economic independence and limited access to traditional debt financing sources.
+
+
 
 
 
