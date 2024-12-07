@@ -20,6 +20,9 @@ The data has been combined from a collection of various online databases amalgam
 
 Determining which variables to include and exclude presented significant challenges. Inclusion criteria were established based on the series name and their respective codes for each country. Ultimately, the following variables were identified as the most suitable for the analysis:
 
+<img width="926" alt="Screenshot 2024-12-06 at 6 55 01 PM" src="https://github.com/user-attachments/assets/89d2edfd-d8df-4281-b6c7-5e9990c020b0">
+
+
 ## Data Cleaning
 The data cleaning process involved several steps to ensure the dataset's consistency and usability. Columns representing years 1970-2005 were removed due to inconsistencies in their statistics, and the years 2023-2029 were excluded because of insufficient data for extrapolation. This narrowed the dataset to cover the years from 2006 to 2021.
 
@@ -39,6 +42,9 @@ Variable names will be transformed by replacing underscores ("_") with spaces to
 ## Data Analysis
 
 ### Top 10 Countries with the Highest Levels of Foreign Debt
+
+![image](https://github.com/user-attachments/assets/7599c729-f857-42e1-909b-c2501ecb4f44)
+
 The first visualization compares the top 10 countries with the highest levels of foreign debt. This graph depicts debt owed to public creditors (government bodies) over time, with the respective countries highlighted in the legend.
 
 The analysis focuses on changes in debt levels owed to public creditors between 2011 and 2021, showing that most countries have experienced an upward trend in debt levels during this period. While many countries follow a similar pattern, a few stand out:
@@ -47,6 +53,31 @@ India has exhibited a relatively consistent increase in debt over the past decad
 Bangladesh has also shown a consistent upward trend but experienced a notable spike in 2015, which warrants further investigation.
 Egypt experienced a similar spike in 2014 but has since steadily reduced its debt levels, signaling to creditors that it is effectively meeting its repayment obligations and remains an attractive investment destination.
 Vietnam has consistently decreased its debt levels since 2011, further establishing itself as a safer investment option for creditors.
+
+### Regional Analysis: Countries with the Highest Total Change in External Debt Stocks in 2021
+
+![image](https://github.com/user-attachments/assets/2b1f78f0-7c28-44e0-85a9-f2a7c72689e3)
+
+The analysis identifies the countries in each region with the highest total change in external debt stocks in 2021 and examines trends in these changes over the past 10 years. The total change in debt stocks represents the year-over-year variation in debt stock, measured in current U.S. dollars.
+
+To visualize these trends, a facet line graph was created for each of the identified countries, resulting in six distinct line graphs showing trends between 2011 and 2021. The findings are as follows:
+
+China recorded the highest variation in debt stock in 2021, while Egypt, Arab Rep had the lowest.
+Across all six countries, there were periods of negative total change in debt stock between 2014 and 2018, though the exact years varied by country.
+The total change in debt stock fluctuated for China, Brazil, and India over the decade. However, the changes in 2021 were relatively similar to those in 2011.
+For the Russian Federation, the variation in debt stock showed a decreasing trend, indicating effective debt stock reduction policies. In contrast, Egypt, Arab Rep experienced an increasing trend in the variation of debt stock from 2011 to 2021.
+
+### Regional Economic Overview: Debt Levels and Income Distribution
+
+To assess the overall state of each region’s economy in terms of debt levels, an initial analysis was conducted using a geographical map to visualize debt levels across countries. This revealed that countries in the South Asia region exhibit the highest overall debt levels.
+
+To further refine the analysis, the income groups of countries within each region were compared to evaluate their contributions to the region’s economic performance. The results highlight notable disparities:
+
+The Sub-Saharan Africa region demonstrates the largest income disparity among its countries. Approximately 34% of countries are classified as lower-income, 62.4% as lower-middle income, and only 3.53% as upper-middle income.
+In contrast, the Latin America and Caribbean region is in a more favorable position in terms of income distribution. Around 78.8% of its countries are categorized as upper-middle income, while the remaining 21.2% are lower-middle income.
+
+
+
 
 
 
