@@ -84,8 +84,6 @@ In contrast, the Latin America and Caribbean region is in a more favorable posit
 
 ### Identifying Countries at Risk of Excessive Foreign Debt
 
-![image](https://github.com/user-attachments/assets/73a92328-b037-4b82-a59d-dc2f0c64137c)
-
 During the analysis to determine countries at risk of taking on excessive foreign debt, a significant portion of the dataset contained NA values. These were not removed during the data cleaning process due to the structure of the dataset, which spans multiple years where each year is represented as a variable. Removing rows with missing data for a single year would have resulted in the unnecessary loss of valuable information from other years.
 
 This limitation posed challenges for the original analysis. The intended variable, rescheduled debt (representing restructured contract terms to aid a country), could not be used due to insufficient data. Consequently, an alternative approach was adopted by shifting focus to IMF credits as a proxy for assessing risk.
@@ -94,7 +92,7 @@ IMF credits represent loans extended to countries in need of additional monetary
 
 ### Reliance on the International Monetary Fund Over the Past Decade
 
-![image](https://github.com/user-attachments/assets/a5a8087f-5182-4c4a-acdf-048041d9ae84)
+![image](https://github.com/user-attachments/assets/73a92328-b037-4b82-a59d-dc2f0c64137c)
 
 The countries that have relied most heavily on the International Monetary Fund (IMF) for assistance over the past 10 years are China, India, and the Russian Federation. While this reliance suggests potential economic challenges, additional context provides a more nuanced understanding of each country's financial situation:
 
@@ -103,6 +101,19 @@ China has utilized IMF resources primarily to expand its infrastructure and stre
 India is one of the top three borrowers from the IMF and is also the leading country for external debt owed to public creditors. This suggests that India faces challenges in sustaining its economy solely through private and public creditors, necessitating additional support from the IMF. These funds could be directed toward fostering economic growth or mitigating the effects of financial downturns.
 
 The Russian Federation relies on IMF assistance partly due to the numerous tariffs imposed on its economy by other nations. Despite this reliance, Russia maintains relatively low levels of external debt from public creditors, reflecting its economic independence and limited access to traditional debt financing sources.
+
+
+### Countries with the Highest Levels of Reserves for Debt Protection
+
+![image](https://github.com/user-attachments/assets/a5a8087f-5182-4c4a-acdf-048041d9ae84)
+
+The final analysis compares the top 5 countries with the highest levels of reserves, including gold, to determine which countries have the most liquid assets set aside for emergencies or unique investment opportunities.
+
+The analysis reveals that China holds the highest level of reserves, which supports the notion that its use of IMF funds is primarily for economic expansion and infrastructure development. This is significant because it suggests that, despite relying on IMF assistance, China has maintained a strong financial position. As an upper-middle-income country, China has managed to keep its debt levels relatively stable while benefiting its society between 2011 and 2021. However, there is a noticeable disparity between China and the other top countries in terms of reserve levels.
+
+The other upper-middle-income countries, namely the Russian Federation and Brazil, have much smaller reserves. Although the size of the economy likely influences the amount of reserves a country can set aside, the differences in reserves between China, Brazil, and Russia are substantial.
+
+Overall, this analysis indicates that reserve levels are closely aligned with each country’s economic performance, following a similar pattern to their IMF borrowing levels. Countries with higher reserves tend to have stronger economic stability and greater capacity to manage external financial challenges.
 
 
 
