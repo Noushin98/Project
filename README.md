@@ -71,6 +71,8 @@ For the Russian Federation, the variation in debt stock showed a decreasing tren
 
 ### Regional Economic Overview: Debt Levels and Income Distribution
 
+<img width="1296" alt="Screenshot 2024-12-06 at 7 38 14 PM" src="https://github.com/user-attachments/assets/517ca9c4-99f2-41cb-8769-ab00602ddb15">
+
 To assess the overall state of each region’s economy in terms of debt levels, an initial analysis was conducted using a geographical map to visualize debt levels across countries. This revealed that countries in the South Asia region exhibit the highest overall debt levels.
 
 To further refine the analysis, the income groups of countries within each region were compared to evaluate their contributions to the region’s economic performance. The results highlight notable disparities:
