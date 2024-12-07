@@ -1,3 +1,5 @@
+# International Debt Statistics (IDS)
+
 ## Background/Motivation
 Everyday hundreds of billions of dollars are traded on the bond market. Lower and middle-income countries must secure external debt to finance their operations. Countries must find a balance between debt and equity investments while still recognizing the amount of risk that they are willing to take. Bonds from foreign countries can be a more secure method of financing in comparison to stocks in the marketplace, however, having too much debt with an unbalanced portfolio can be detrimental.  
 
