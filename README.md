@@ -22,7 +22,7 @@ The data has been combined from a collection of various online databases amalgam
 
 Determining which variables to include and exclude presented significant challenges. Inclusion criteria were established based on the series name and their respective codes for each country. Ultimately, the following variables were identified as the most suitable for the analysis:
 
-<img width="926" alt="Screenshot 2024-12-06 at 6 55 01 PM" src="https://github.com/user-attachments/assets/89d2edfd-d8df-4281-b6c7-5e9990c020b0">
+<img width="713" alt="Screenshot 2024-12-06 at 7 48 19 PM" src="https://github.com/user-attachments/assets/72a80190-f2ea-4050-849f-719208421896">
 
 
 ## Data Cleaning
@@ -77,8 +77,13 @@ To assess the overall state of each region’s economy in terms of debt levels, 
 
 To further refine the analysis, the income groups of countries within each region were compared to evaluate their contributions to the region’s economic performance. The results highlight notable disparities:
 
+<img width="1237" alt="Screenshot 2024-12-06 at 7 51 03 PM" src="https://github.com/user-attachments/assets/8b3856b5-221e-42cf-949a-c0cd8db69979">
+
 The Sub-Saharan Africa region demonstrates the largest income disparity among its countries. Approximately 34% of countries are classified as lower-income, 62.4% as lower-middle income, and only 3.53% as upper-middle income.
 In contrast, the Latin America and Caribbean region is in a more favorable position in terms of income distribution. Around 78.8% of its countries are categorized as upper-middle income, while the remaining 21.2% are lower-middle income.
+
+
+
 
 
 
